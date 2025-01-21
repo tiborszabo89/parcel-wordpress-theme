@@ -1,0 +1,14 @@
+{
+  "name": "wp-theme-with-parcel-2",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build acf-blocks/**/*.scss acf-blocks/**/*.js --dist-dir dist --no-source-maps",
+    "watch": "parcel watch acf-blocks/**/*.scss acf-blocks/**/*.js --dist-dir dist --no-source-maps"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3",
+    "sass": "^1.55.0"
+  },
+  "dependencies": {}
+}
