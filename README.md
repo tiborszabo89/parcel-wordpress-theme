@@ -53,13 +53,13 @@ parcel-theme/
 Installation
 ------------
 
-1.  bashCopyEditgit clone https://github.com/your-username/parcel-2-theme.git
+1.  git clone https://github.com/your-username/parcel-2-theme.git
     
-2.  bashCopyEditcd parcel-2-theme
+2.  cd parcel-2-theme
     
-3.  bashCopyEditnpm install
+3.  npm install
     
-4.  bashCopyEditnpm run build
+4.  npm run build
     
 5.  **Activate the theme**Log in to the WordPress admin panel and activate the Parcel-2-Theme.
     
