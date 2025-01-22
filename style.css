@@ -1,12 +1,6 @@
 /*
-Theme Name: Evista
+Theme Name: grapplinghook
 Author: Tibor Szabo
-Description: A high-performance WordPress theme with ACF Flexible Content and ViteJS bundler.
+Description: A high-performance WordPress theme with ACF Flexible Content and Parcel bundler.
 Version: 1.0
 */
-
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-}
